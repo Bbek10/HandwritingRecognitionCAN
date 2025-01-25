@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "HandwritingRecognitionCAN",
+			"path": "."
+		},
+		{
+			"name": "uploads",
+			"path": "../../Shanks/HandwritingRecognition/uploads"
+		},
+		{
+			"name": "processed",
+			"path": "../../Shanks/HandwritingRecognition/processed"
+		}
+	],
+	"settings": {}
+}
